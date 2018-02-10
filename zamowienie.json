@@ -1,0 +1,22 @@
+[
+  {
+    "nazwaTowaru": "Chleb",
+    "ileSztuk": 11,
+    "cena": 3.5
+  },
+  {
+    "nazwaTowaru": "Cukier",
+    "ileSztuk": 3,
+    "cena": 4.0
+  },
+  {
+    "nazwaTowaru": "Chleb",
+    "ileSztuk": 1,
+    "cena": 2.5
+  },
+  {
+    "nazwaTowaru": "Jabłko",
+    "ileSztuk": 5,
+    "cena": 1.0
+  }
+]
